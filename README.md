@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my profile!👋
+## Check out my bio for more information
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aktonen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aktonen&theme=tokyonight" alt="mystreak"/>
 
